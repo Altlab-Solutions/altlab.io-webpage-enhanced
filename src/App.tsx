@@ -253,9 +253,14 @@ function App() {
               <div className="bg-[#3e7c95] p-8 rounded-lg shadow-lg text-white text-center">
                 <h3 className="text-xl font-semibold mb-4">Ready to Transform Your Business?</h3>
                 <p className="mb-6 text-[#95b3bd]">Let's discuss how we can help you achieve your digital goals.</p>
-                <button className="bg-white text-[#3e7c95] px-6 py-3 rounded-lg font-semibold hover:bg-[#95b3bd] hover:text-white transition-colors">
+                <a
+                  href="https://calendly.com/julian-altlab/30min"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-block bg-white text-[#3e7c95] px-6 py-3 rounded-lg font-semibold hover:bg-[#95b3bd] hover:text-white transition-colors"
+                >
                   Schedule a Meeting
-                </button>
+                </a>
               </div>
             </div>
           </div>
@@ -331,7 +336,7 @@ function App() {
           </div>
 
           <div className="border-t border-[#95b3bd]/20 mt-8 pt-8 text-center text-[#95b3bd]">
-            <p>© 2024 Altlab.io. All rights reserved.</p>
+            <p>© 2025 Altlab.io. All rights reserved.</p>
           </div>
         </div>
       </footer>
