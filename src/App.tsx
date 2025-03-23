@@ -162,7 +162,7 @@ function App() {
                 <div className="relative">
                   <div className="absolute inset-0 bg-black/10 rounded-full backdrop-blur-[2px]"></div>
                   <img
-                    src="image/julian.jpg"
+                    src="image/julian1.jpg"
                     alt="Julian"
                     className="relative w-40 h-40 rounded-full mx-auto mb-4 object-cover ring-4 ring-white shadow-xl transform transition-all duration-300"
                     style={{ objectPosition: 'center 20%' }}
@@ -171,7 +171,7 @@ function App() {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-[#3e7c95]/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
               </div>
               <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Julian</h3>
-              <p className="text-[#5b8ea2] mb-3">Founder - Business Strategy</p>
+              <p className="text-[#5b8ea2] mb-3">Co-Founder - Business Strategy</p>
               <a
                 href="https://www.linkedin.com/in/julian-azwar/"
                 target="_blank"
@@ -188,7 +188,7 @@ function App() {
                 <div className="relative">
                   <div className="absolute inset-0 bg-black/10 rounded-full backdrop-blur-[2px]"></div>
                   <img
-                    src="image/mike.jpg"
+                    src="image/mike2.jpg"
                     alt="Mike"
                     className="relative w-40 h-40 rounded-full mx-auto mb-4 object-cover ring-4 ring-white shadow-xl transform transition-all duration-300"
                     style={{ objectPosition: 'center 20%' }}
@@ -197,7 +197,7 @@ function App() {
                 <div className="absolute inset-0 rounded-full bg-gradient-to-t from-[#3e7c95]/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity"></div>
               </div>
               <h3 className="text-xl font-semibold mb-2 text-[#3e7c95]">Mike</h3>
-              <p className="text-[#5b8ea2] mb-3">Founder - Technical Lead</p>
+              <p className="text-[#5b8ea2] mb-3">Co-Founder - Technical Lead</p>
               <a
                 href="https://www.linkedin.com/in/mike-veilleux-54052610/"
                 target="_blank"
